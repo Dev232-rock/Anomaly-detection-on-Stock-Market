@@ -17,7 +17,6 @@ Anomalies in stock market data can signal critical events or unusual behavior. T
    ```bash
    git clone https://github.com/Dev232-rock/Anomaly-detection-on-Stock-Market
 
-   Data
 The project uses historical stock market data, which can be obtained from financial data providers like Yahoo Finance, Alpha Vantage, or any other source. The data should include open, high, low, close, and volume (OHLCV) values.
 
 Model Architecture
